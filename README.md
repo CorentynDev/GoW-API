@@ -52,3 +52,6 @@ Examples:
 * `GET /api/pvp` → PvP Info
 
 🔗 Join the community and [contribute](https://docs.google.com/forms/d/e/1FAIpQLSfQz7br2jpt9mrkeI-dTJJWTft1ywtH5DW5FXZhYt-jne9Bvg/viewform?usp=dialog)! 🚀
+
+📢 **Participate in discussions and improvements of the project!**
+➡️ [Join the community on GitHub Discussions](https://github.com/CorentynDev/GoW-API/discussions)
