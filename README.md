@@ -51,4 +51,4 @@ Examples:
 * `GET /api/guilds` → Guild Details
 * `GET /api/pvp` → PvP Info
 
-🔗 Join the community and contribute! 🚀
+🔗 Join the community and [contribute](https://docs.google.com/forms/d/e/1FAIpQLSfQz7br2jpt9mrkeI-dTJJWTft1ywtH5DW5FXZhYt-jne9Bvg/viewform?usp=dialog)! 🚀
