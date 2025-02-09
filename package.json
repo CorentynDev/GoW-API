@@ -1,0 +1,12 @@
+{
+  "name": "gow-api",
+  "version": "1.0.0",
+  "description": "🚀 Gems of War API is a complete API for real-time access to all Gems of War game data. This project aims to provide players and developers with structured and exploitable access to all the game's features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
